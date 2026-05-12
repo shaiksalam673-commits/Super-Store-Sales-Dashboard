@@ -96,7 +96,7 @@ Map visualization helps identify:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Screenshots/Screenshot 2026-05-12 165126.png)
+![Dashboard Preview](Screenshots/dashboard2.png)
 
 ---
 
